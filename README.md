@@ -48,7 +48,7 @@ I graduated with a Bachelor's degree in Cybersecurity and am currently pursuing 
 ## Research Papers
 
 - **Analysis of Password Managers** - Abstracts for IMA-2022 conference (2022)
-- ** Analysis of NIST Lightweight Cryptographic Algorithms Performance in IoT Security Environments based on MQTT** - Connected and Immersive Intelligence at IEEE Wireless Communications and Networking Conference (WCNC) (2024)
+- **Analysis of NIST Lightweight Cryptographic Algorithms Performance in IoT Security Environments based on MQTT** - Connected and Immersive Intelligence at IEEE Wireless Communications and Networking Conference (WCNC) (2024)
 - **Security Protocols for IoT Devices** - Qualification paper (2024)
 
 ---
